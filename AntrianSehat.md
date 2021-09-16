@@ -2,10 +2,12 @@
 ## About The Project
 Antrean Sehat untuk Desktop
 
+### Prerequisites
+* Net Core SDK
 
-## Installation
+## Installation For Development
 1. Buka project menggunakan visual studio code atau IDE lainnya yang kompatible seperti VS Blend
-2. Untuk pertama kali, Clone the repo
+2. Untuk pertama kali, Clone repo
    ```sh
    git clone https://github.com/tesu-tesu/antrian-sehat-wpf.git
    ```
@@ -14,4 +16,10 @@ Antrean Sehat untuk Desktop
   <img src="https://i.imgur.com/f0BAOVo.png" width="400" height="600"> </img>
   
   isikan kolom repository location dengan link github https://github.com/tesu-tesu/antrian-sehat-wpf.git
-   
+
+
+<!-- Penggunaan exe -->
+## Installation EXE
+1. Download [Portable APP Antrian Sehat](https://mega.nz/file/o8kiCbiS#T3_Fw4CZgSBdFSE6LF97KBm_jFwMDyw0cGIDsi_ar4Q)
+2. Extract Zip
+3. Jalankan TestWPP.exe, untuk fungsionalitas maksimal, sebelum menjalankan aplikasi desktop, jalankan [backend antrian sehat](https://github.com/tesu-tesu/antrian-sehat-backend) terlebih dahulu  
