@@ -12,8 +12,9 @@ Antrean Sehat untuk Desktop
    git clone https://github.com/tesu-tesu/antrian-sehat-wpf.git
    ```
   atau pada dashboard VS, pilih clone a repository
-  
+  <p align="center">
   <img src="https://i.imgur.com/f0BAOVo.png" width="400" height="600"> </img>
+  </p>
   
   isikan kolom repository location dengan link github https://github.com/tesu-tesu/antrian-sehat-wpf.git
 
