@@ -18,8 +18,12 @@ Antrean Sehat untuk Desktop
   isikan kolom repository location dengan link github https://github.com/tesu-tesu/antrian-sehat-wpf.git
 
 
+
+
+
+
 <!-- Penggunaan exe -->
 ## Installation EXE
 1. Download [Portable APP Antrian Sehat](https://mega.nz/file/o8kiCbiS#T3_Fw4CZgSBdFSE6LF97KBm_jFwMDyw0cGIDsi_ar4Q)
 2. Extract Zip
-3. Jalankan TestWPP.exe, untuk fungsionalitas maksimal, sebelum menjalankan aplikasi desktop, jalankan [backend antrian sehat](https://github.com/tesu-tesu/antrian-sehat-backend) terlebih dahulu  
+3. Jalankan TestWPPL.exe, untuk fungsionalitas maksimal, sebelum menjalankan aplikasi desktop, jalankan api [backend antrian sehat](https://github.com/tesu-tesu/antrian-sehat-backend) terlebih dahulu  
